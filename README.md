@@ -1,2 +1,2 @@
-# MiguelGomes.guthub.io readme file
+# MiguelGomes.github.io readme file
 website
